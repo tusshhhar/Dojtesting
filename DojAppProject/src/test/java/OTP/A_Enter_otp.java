@@ -48,6 +48,7 @@ Thread.sleep(3000);
 Thread.sleep(3000);
 //Click on oky button
 	   	    driver.findElement(By.xpath("//button[@class=\"swal2-confirm swal2-styled\"]")).click();
+	
+	Thread.sleep(1000);
 	}
-
 }
