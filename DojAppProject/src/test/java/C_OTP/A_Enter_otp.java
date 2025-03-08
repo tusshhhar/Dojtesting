@@ -1,6 +1,4 @@
-package OTP;
-import java.util.concurrent.TimeUnit;
-
+package C_OTP;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
